@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Debojit Boruah
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Debojit Boruah from Dibrugarh, Assam
+- 👀 I’m interested in Computer Science.. 
+     I know CS is a huge subject, I can't 
+     Complete all everything but trying to do 
+     a little for myself.
+- 🌱 I’m currently learning Programming.. especially Java
+     And I have completed C,C++, Python.
 - 📫 How to reach me ... boruahd50@gmail.com
 
 <!---
